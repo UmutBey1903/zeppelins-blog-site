@@ -230,8 +230,7 @@ h3 {
 .footer {
     position: relative;
     text-align: center;
-    margin: 5rem 0;
-
+    margin: 4rem 0;
 }
 
 
@@ -319,22 +318,22 @@ h3 {
     }
 
     .app_links2 {
-       flex-direction: row;
+        flex-direction: row;
     }
-    
+
     .app_links2 .twitter,
     .linkedin,
     .medium {
         font-size: 12px;
         font-weight: 500;
-       height: 40px;
+        height: 40px;
     }
-    
+
     .app_links2 img {
         margin-right: 0.5rem;
     }
 
-    .app_blog-categories{
+    .app_blog-categories {
         overflow-x: auto;
         padding: 0;
     }
@@ -345,7 +344,7 @@ h3 {
         margin-right: 1rem;
         white-space: nowrap;
     }
-    
+
     .app_blog-categories .item.active {
         font-size: 14px;
     }
@@ -353,28 +352,27 @@ h3 {
     .app_post-list .app_post-card {
         margin: 1rem 0;
     }
-    
+
     .app_post-list .app_post-card .post_img {
         height: 200px;
     }
-    
+
     .app_post-list .app_post-card .post_date {
         font-size: 10px;
         font-weight: 600;
-        
+
     }
-    
+
     .app_post-list .app_post-card .post_title {
         font-size: 20px;
     }
-    
+
     .app_post-list .app_post-card .post_info {
         font-weight: 400;
         font-size: 14px;
     }
-    
-    .app_post-list .app_post-card .post_link {
-        font-size: 14px;
-    }
 
-    
+    .app_post-list .app_post-card .post_link {
+        font-size: 13px;
+    }
+}
