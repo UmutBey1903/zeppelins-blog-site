@@ -1,7 +1,9 @@
 # zeppelins-blog-site
 
-Basit ve kullanisli bir web site
+multi-page useful website
 
-<h3>Harici teknolojiler kullanildi</h3>
+<h3>html,css and js used</h3>
+
+Screen gif
 
 ![](gif/zeppelins.gif)
