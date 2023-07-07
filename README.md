@@ -1,6 +1,6 @@
 # zeppelins-blog-site
 
-<h3<multi-page useful website</h3>
+Multi-page useful website
 
 html,css and js used
 
