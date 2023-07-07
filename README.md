@@ -1,8 +1,8 @@
 # zeppelins-blog-site
 
-multi-page useful website
+<h3<multi-page useful website</h3>
 
-<h3>html,css and js used</h3>
+html,css and js used
 
 Screen gif
 
